@@ -1,0 +1,6 @@
+@import "toto.css";
+
+body {
+    background-color: lightblue;
+    background-image: url("../images/cheveux.png");
+}
