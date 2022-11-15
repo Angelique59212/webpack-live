@@ -53,4 +53,4 @@ const production = {
     ]
 }
 
-export default production;
+module.exports = production;

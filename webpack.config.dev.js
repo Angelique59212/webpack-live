@@ -25,9 +25,6 @@ const development = {
             },
         ],
     },
-    optimization: {
-        minimize: false,
-    }
 }
 
-export default development;
+module.exports = development;
